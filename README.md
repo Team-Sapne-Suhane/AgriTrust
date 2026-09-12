@@ -139,7 +139,7 @@ npm run preview
 ---
 
 ## 👥 Hackathon Team: Team Sapne Suhane
-- **Domain**: FinTech & InsurTech / AgriTech
+- **Domain**: agrii-trust.netlify.app
 - **Platform**: AgriTrust (National Parametric Drought Micro-Insurance)
 
 ---
